@@ -11,7 +11,6 @@
 **Informacoes pessoais:**
 
 - 🏫 Estou estudando na **Universidade do Sul de Santa Catarina**.
-- 🌎 Eu sou **Americano**.
 - 📚 Estou cursando **Analise e desenvolvimento de sistemas**.
 - 🏄‍♂️ Meus hobbies sao **Surfar e pintar**.
 
