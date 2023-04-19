@@ -4,7 +4,7 @@
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-- Esse conta do git foi criada somente para as **aulas praticas** de desenvolvimento do **Professor Osmar**
+- Esse conta do git foi criada *somente* para as **aulas praticas** de desenvolvimento do **Professor Osmar**
 
 
 
