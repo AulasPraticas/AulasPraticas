@@ -1,16 +1,28 @@
-### Hi there 👋
+**Oi eu sou o Thomas👋, Bem vindo ao meu github**
 
-<!--
-**AulasPraticas/AulasPraticas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/thomas-pessoa-tech/">
+  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 
-Here are some ideas to get you started:
+- Esse conta do git foi criada somente para as **aulas praticas** de desenvolvimento do **Professor Osmar**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**Informacoes pessoais:**
+
+- 🏫 Estou estudando na **Universidade do Sul de Santa Catarina**.
+- 🌎 Eu sou **Americano**.
+- 📚 Estou cursando **Analise e desenvolvimento de sistemas**.
+- 🏄‍♂️ Meus hobbies sao **Surfar e pintar**.
+
+
+
+🗽**Status:**
+<!--START_SECTION:waka-->
+
+```text
+Estudando...
+```
+
+<!--END_SECTION:waka-->
+
