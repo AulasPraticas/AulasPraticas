@@ -1,6 +1,6 @@
 **Oi eu sou o Thomas👋, Bem vindo ao meu github**
 
-<a href="https://www.linkedin.com/in/thomas-pessoa-tech/">
+<a href="https://www.linkedin.com/in/thomas-pesso-tech/">
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
